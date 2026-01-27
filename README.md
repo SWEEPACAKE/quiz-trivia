@@ -9,7 +9,7 @@
 ## Récupérer le dépôt 
 
 ```
-git clone [urlDuDépôt]
+git clone https://github.com/SWEEPACAKE/quiz-trivia.git
 ```
 
 ## Démarrer son environnement de dev 
