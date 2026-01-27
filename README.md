@@ -45,6 +45,6 @@ Testez la connexion avant de la sauvegarder.
 
 Vous allez devoir travailler dans le dossier /src, comme précisé dans la partie volumes du fichier docker-compose.yml 
 
-Commencez par créer un index.php et vérifier que vous y avez bien accès en appelant l'URL [http://localhost:8080](http://localhost:8080)
+Commencez par vérifier que vous y avez bien accès en appelant l'URL [http://localhost:8080](http://localhost:8080)
 
 Et ensuite à vous de jouer :)
