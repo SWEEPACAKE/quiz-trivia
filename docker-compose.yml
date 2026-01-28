@@ -17,3 +17,6 @@ services:
       MARIADB_DATABASE: quiz
     volumes:
       - ./sql:/docker-entrypoint-initdb.d
+      - mes_donnees:/var/lib/mysql
+volumes: 
+  mes_donnees:
